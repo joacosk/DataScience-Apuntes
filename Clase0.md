@@ -45,7 +45,7 @@ Video resumen sobre tipos de modelos
     a) Para humanos: Uso de información por parte de tomadores de decisiones. Faceta de visualización (Dashboard) y obtener inferencias causales. Involucra narrativa y análisis.
     b) Para máquinas: Modelamiento automático, inteligencia artificial, ETL, Data Engineering, Software Engineering
 
-
+---
 ### Usos en la vida real
 
 - Lyna
@@ -54,4 +54,5 @@ Video resumen sobre tipos de modelos
 - Synthesia
 
 Comparto un video de Damian Kuc sobre inteligencia artificial que puede resultar interesante como introducción a potenciales usos de machine learning.
+
 [![VIDEO DAMIAN KUC - Inteligencia Artificial](https://i.ytimg.com/vi/-YgKpSkQcn4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCt-Cb-vMcrH9fq4Z7xi93LSuBQWQ)](https://www.youtube.com/watch?v=-YgKpSkQcn4)
