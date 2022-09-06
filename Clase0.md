@@ -56,10 +56,10 @@ Video resumen sobre tipos de modelos
 ---
 ### Usos en la vida real
 
-- Lyna
+- [Lyna](https://ai.googleblog.com/2018/10/applying-deep-learning-to-metastatic.html)
 - Clue
-- Dall-e
-- Synthesia
+- [Dall-e](https://openai.com/dall-e-2/)
+- [Synthesia](https://www.synthesia.io/)
 
 Comparto un video de Damian Kuc sobre inteligencia artificial que puede resultar interesante como introducción a potenciales usos de machine learning.
 
