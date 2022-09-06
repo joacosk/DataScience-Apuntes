@@ -42,8 +42,16 @@ Video resumen sobre tipos de modelos
 
 ## Tipo de data science
 ### Clasificación
-    a) Para humanos: Uso de información por parte de tomadores de decisiones. Faceta de visualización (Dashboard) y obtener inferencias causales. Involucra narrativa y análisis.
-    b) Para máquinas: Modelamiento automático, inteligencia artificial, ETL, Data Engineering, Software Engineering
+    a) Para humanos:
+        Uso de información por parte de tomadores de decisiones. 
+        Faceta de visualización (Dashboard) y obtener inferencias causales. 
+        Involucra narrativa y análisis.
+    b) Para máquinas: 
+        Modelamiento automático,
+        inteligencia artificial,
+        ETL, 
+        Data Engineering, 
+        Software Engineering
 
 ---
 ### Usos en la vida real
